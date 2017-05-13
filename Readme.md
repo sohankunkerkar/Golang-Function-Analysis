@@ -3,7 +3,7 @@
 <b>‘Community Repair’: Analyzing and Repairing Out-of-Date Crowd Documentation.</b><br>
 After initial proof of concept, we realized the need and scope for analyzing the performance changes and recommend updates for golang language. However, there are only 20,000 odd posts available on Stackoverflow site which in terms of coverage is very low. Hence we decided to understand the behavior of golang packages. Similar to java which has JavaDoc,golang has Godoc which extracts and generates documentation for Go programs.The given project divided into several phases and the results we accomplished after every phase would be analyzed to take prompt decisions for future milestones.<br>
 <b>Project phases are listed below:</b><br>
-<b>1.</b> Extract fucntions from godoc package <br>
+<b>1.</b> Extract functions from godoc package <br>
 <b>2.</b> Fetch the count of Stackoverflow posts for given fucntions <br>
 <b>3.</b> TreeMap Structure to understand the coverage across Stackoverflow posts <br>
 <b>4.</b> Count of Stackoverflow posts where usage of certain functions are not accurate<br>
